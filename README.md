@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-Desenvolvedor Full Stack com experiência em desenvolvimento **web, mobile e backend**. Tenho experiência profissional com desenvolvimento mobile utilizando **React Native** e venho ampliando minha atuação em aplicações web e backend.
+Desenvolvedor Full Stack com experiência em aplicações **web, mobile e backend**. Possuo experiência profissional com **React Native** e venho ampliando minha atuação no desenvolvimento de aplicações web e backend.
 
 Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software**, buscando construir aplicações cada vez mais organizadas, escaláveis e fáceis de manter.
 
@@ -16,7 +16,7 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software**
 - ⚙️ Experiência com desenvolvimento backend e APIs
 - 🧩 Atualmente aprofundando conhecimentos em arquitetura de software
 - 📚 Sempre buscando evoluir através de projetos práticos
-- 🎯 Interesse em desenvolvimento de sistemas bem estruturados, escaláveis e sustentáveis
+- 🎯 Interesse em sistemas bem estruturados, escaláveis e sustentáveis
 
 ---
 
@@ -37,20 +37,22 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software**
 
 ### Backend
 
-- Java
-- Spring Boot
 - Node.js
 - Express.js
+- TypeScript
+- Java
+- Spring Boot
 
-### Databases
+### Banco de Dados
 
 - PostgreSQL
 - MongoDB
-- H2
+- SQLite
 - Prisma
+- H2
 - JPA / Hibernate
 
-### Tools & Practices
+### Ferramentas & Práticas
 
 - Git
 - GitHub
@@ -58,20 +60,6 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software**
 - REST APIs
 - Object-Oriented Programming
 - Layered Architecture
-
----
-
-## 📌 Projetos em destaque
-
-### 💰 Money Worker
-
-API REST para gerenciamento de vendas, desenvolvida com Java e Spring Boot.
-
-O projeto trabalha com conceitos de modelagem de domínio, JPA, Hibernate, repositories, services e uma arquitetura em camadas.
-
-**Java · Spring Boot · JPA · Hibernate · H2**
-
-[Ver projeto →](https://github.com/DemetrioTeodoro/money-worker)
 
 ---
 
@@ -99,7 +87,21 @@ O projeto utiliza uma arquitetura modular no backend e persistência de dados co
 
 ---
 
-## 📱 Experiência com Mobile
+## 📌 Projetos em destaque
+
+### 💰 Money Worker
+
+API REST para gerenciamento de vendas, desenvolvida com Java e Spring Boot.
+
+O projeto trabalha com conceitos de modelagem de domínio, JPA, Hibernate, repositories, services e arquitetura em camadas.
+
+**Java · Spring Boot · JPA · Hibernate · H2**
+
+[Ver projeto →](https://github.com/DemetrioTeodoro/money-worker)
+
+---
+
+## 📱 Experiência com WEB, BACK-END & Mobile
 
 Tenho experiência profissional no desenvolvimento de aplicações mobile utilizando **React Native**, trabalhando com aplicações reais e necessidades de produto.
 
@@ -112,13 +114,16 @@ Essa experiência contribuiu para minha visão de desenvolvimento Full Stack, pe
 Meu foco atual está em aprofundar conhecimentos em:
 
 - Arquitetura de software
-- Design de aplicações
+- Design e organização de aplicações
 - Desenvolvimento backend
-- Java e Spring Boot
 - APIs REST
-- Banco de dados
 - Testes automatizados
 - Boas práticas de desenvolvimento
+- Banco de dados
+- NodeJS
+- React
+- React Native
+- Java e Spring Boot
 - Docker
 - CI/CD
 
@@ -133,7 +138,7 @@ Continuar evoluindo como desenvolvedor Full Stack, unindo minha experiência com
 ## 📫 Onde me encontrar
 
 - GitHub: [@DemetrioTeodoro](https://github.com/DemetrioTeodoro)
-- LinkedIn: [Meu LinkedIn](COLOQUE_SEU_LINK_AQUI)
+- LinkedIn: [Demetrio Teodoro](https://www.linkedin.com/in/demetrio-teodoro-3ab190184/)
 
 ---
 
