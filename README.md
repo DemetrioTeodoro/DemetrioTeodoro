@@ -3,7 +3,7 @@
 <td valign="top">
 
 <pre>
-<img width="380" height="505" alt="image" src="https://github.com/user-attachments/assets/de740611-6019-4e35-a8b8-69a98f4b2346" />
+<img width="380" height="480" alt="image" src="https://github.com/user-attachments/assets/de740611-6019-4e35-a8b8-69a98f4b2346" />
 </pre>
 
 </td>
