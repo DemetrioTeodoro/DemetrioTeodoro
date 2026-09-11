@@ -1,3 +1,74 @@
+<table>
+<tr>
+<td valign="top">
+
+<pre>
+..................--..................--
+............MM@@@@####@@--........------
+..........MM##############@@........----
+..........##################@@........--
+........@@@@MMmm++++++mmmmMM##MM......--
+........@@++::::::::++++++mmMM##........
+........@@::::----::::++mmmmmm##........
+........MM::::--::::::++++mmmm##--......
+........@@::::::::::::++MM@@MMmm--......
+........@@::MMMMmm++++MMMMmm@@mm--......
+........##::++##MM++++@@MM####mmmm..----
+........MM--::mm++::::MM++mmMMmmMM------
+........::------::::++MMmm++mmmmmm------
+........------------::MMMMmmmmMM::::----
+..........------::MMMM##MMmmMMMM::::----
+..........::----::mmMM@@MMMMMMMM::::----
+..........MM::::++MMMM@@@@@@MMMM::::----
+............::::::++mmMM@@@@@@##::::::::
+............##mm++++MMMM@@####--++::::::
+............::##MM++++MM######--++++::::
+............::::##@@@@@@####@@MM::++++::
+........MM##::::++MM####@@@@@@@@####@@++
+....@@@@##::++::::++mmMM@@@@@@##########
+--@@MM@@##@@::++::++++MMMMMM@@##########
+MM@@@@##@@##::++++++++mmmmMM@@##########
+@@@@##########++::++mmmm++MM############
+@@@@##@@##########++mm++@@##############
+</pre>
+
+</td>
+
+<td valign="top">
+
+<pre>
+demetrio@github
+──────────────────────────────
+Name:        Demetrio Teodoro
+Location:    Brazil 🇧🇷
+Role:        Full Stack Developer
+Focus:       Software Engineering
+
+Languages:   JavaScript · TypeScript · Java
+Frontend:    React · Next.js
+Backend:     Node.js · Spring Boot
+Database:    PostgreSQL · MongoDB
+Tools:       Git · Docker · Maven
+
+──────────────────────────────
+GitHub
+Repositories: 28
+Followers:    3
+Following:    0
+
+──────────────────────────────
+Currently:
+Software Architecture
+Clean Code
+System Design
+
+$ echo "Hello, World!"
+</pre>
+
+</td>
+</tr>
+</table>
+
 # Olá, eu sou o Demetrio! 👋
 
 ### Full Stack Developer
