@@ -3,33 +3,7 @@
 <td valign="top">
 
 <pre>
-..................--..................--
-............MM@@@@####@@--........------
-..........MM##############@@........----
-..........##################@@........--
-........@@@@MMmm++++++mmmmMM##MM......--
-........@@++::::::::++++++mmMM##........
-........@@::::----::::++mmmmmm##........
-........MM::::--::::::++++mmmm##--......
-........@@::::::::::::++MM@@MMmm--......
-........@@::MMMMmm++++MMMMmm@@mm--......
-........##::++##MM++++@@MM####mmmm..----
-........MM--::mm++::::MM++mmMMmmMM------
-........::------::::++MMmm++mmmmmm------
-........------------::MMMMmmmmMM::::----
-..........------::MMMM##MMmmMMMM::::----
-..........::----::mmMM@@MMMMMMMM::::----
-..........MM::::++MMMM@@@@@@MMMM::::----
-............::::::++mmMM@@@@@@##::::::::
-............##mm++++MMMM@@####--++::::::
-............::##MM++++MM######--++++::::
-............::::##@@@@@@####@@MM::++++::
-........MM##::::++MM####@@@@@@@@####@@++
-....@@@@##::++::::++mmMM@@@@@@##########
---@@MM@@##@@::++::++++MMMMMM@@##########
-MM@@@@##@@##::++++++++mmmmMM@@##########
-@@@@##########++::++mmmm++MM############
-@@@@##@@##########++mm++@@##############
+<img width="380" height="505" alt="image" src="https://github.com/user-attachments/assets/de740611-6019-4e35-a8b8-69a98f4b2346" />
 </pre>
 
 </td>
@@ -44,7 +18,7 @@ Location:    Brazil 🇧🇷
 Role:        Full Stack Developer
 Focus:       Software Engineering
 
-Languages:   JavaScript · TypeScript · Java
+Languages:   JavaScript · TypeScript · Java · Others
 Frontend:    React · Next.js
 Backend:     Node.js · Spring Boot
 Database:    PostgreSQL · MongoDB
